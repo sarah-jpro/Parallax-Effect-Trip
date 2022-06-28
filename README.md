@@ -17,7 +17,7 @@ Languages:
   - CSS 3
   - JavaScript
 
-# :eyes: View Animation : ➡️
+# :eyes: View Animation : ➡️ https://sarah-jpro.github.io/Parallax-Effect-Trip/
 
   <p align="center">
  <img src="img\vue-projet.jpg" width="800">
